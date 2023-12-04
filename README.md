@@ -2,7 +2,7 @@
 
 
 
-- 🔭 My current project is the extRact-app which allows you to use sync your android phone via rsync!
+- 🔭 My current project is the Round Sync-app which allows you to use sync your android phone via rclone!
 - 🌱 I’m currently learning how to do computations, really fast. SIMD!
 - 🤔 I’m looking for help with maintaining the Nextcloud Splash-app. Pretty Pictures!
 
